@@ -1,3 +1,5 @@
+Sorry, This Project now can't work because GPTCraft doesn't support
+
 Flutter_AI is a cross-platform ChatGPT client developed in Flutter, designed to provide users with an interactive chat experience with the ChatGPT model.
 
 ## Features
